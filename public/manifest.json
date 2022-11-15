@@ -1,6 +1,6 @@
 {
-    "name": "Uptime Kuma",
-    "short_name": "Uptime Kuma",
+    "name": "Workmates Monitoring Tools",
+    "short_name": "Workmates Monitoring",
     "start_url": "/",
     "background_color": "#fff",
     "display": "standalone",
